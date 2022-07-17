@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: assignment-crpt
+  main:
+    banner-mode: "off"
+    log-startup-info: "off"
+  jackson:
+    default-property-inclusion: non_null
+
+server:
+  port: 8090
+  servlet:
+    encoding:
+      charset: UTF-8
+      force: true

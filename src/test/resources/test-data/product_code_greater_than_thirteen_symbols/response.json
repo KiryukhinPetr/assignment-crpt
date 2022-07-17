@@ -1,0 +1,8 @@
+{
+  "fieldErrors": [
+    {
+      "field": "products[0].code",
+      "message": "should be a string with 13 symbols"
+    }
+  ]
+}
